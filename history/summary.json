@@ -4,19 +4,19 @@
     "url": "https://ascii.ist.tugraz.at",
     "icon": "https://icons.duckduckgo.com/ip3/ascii.ist.tugraz.at.ico",
     "slug": "ascii",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1821,
-    "timeDay": 1161,
-    "timeWeek": 1821,
-    "timeMonth": 1821,
-    "timeYear": 1821,
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
+    "time": 1720,
+    "timeDay": 1289,
+    "timeWeek": 1720,
+    "timeMonth": 1720,
+    "timeYear": 1720,
     "dailyMinutesDown": {
-      "2024-01-09": 0
+      "2024-01-09": 12
     }
   }
 ]
