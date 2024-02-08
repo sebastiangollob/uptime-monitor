@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ascii.ist.tugraz.at.ico",
     "slug": "ascii",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 1685,
-    "timeDay": 1032,
-    "timeWeek": 1533,
-    "timeMonth": 1685,
-    "timeYear": 1685,
+    "uptimeYear": "99.96%",
+    "time": 1701,
+    "timeDay": 2349,
+    "timeWeek": 1659,
+    "timeMonth": 1678,
+    "timeYear": 1701,
     "dailyMinutesDown": {
       "2024-01-10": 20
     }
