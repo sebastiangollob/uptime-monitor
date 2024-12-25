@@ -4,7 +4,7 @@
     "url": "https://ascii.ist.tugraz.at",
     "icon": "https://icons.duckduckgo.com/ip3/ascii.ist.tugraz.at.ico",
     "slug": "ascii",
-    "status": "up",
+    "status": "down",
     "uptime": "98.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.56%",
@@ -16,6 +16,7 @@
     "timeMonth": 2759,
     "timeYear": 1996,
     "dailyMinutesDown": {
+      "2024-12-25": 0,
       "2024-12-23": 24,
       "2024-12-22": 58,
       "2024-12-21": 45,
