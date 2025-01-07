@@ -11,9 +11,9 @@
     "uptimeMonth": "98.12%",
     "uptimeYear": "98.47%",
     "time": 2073,
-    "timeDay": 2808,
-    "timeWeek": 3206,
-    "timeMonth": 2875,
+    "timeDay": 2362,
+    "timeWeek": 3114,
+    "timeMonth": 2861,
     "timeYear": 2073,
     "dailyMinutesDown": {
       "2025-01-07": 132,
@@ -52,5 +52,23 @@
       "2024-02-14": 54,
       "2024-01-10": 20
     }
+  },
+  {
+    "name": "Infisical",
+    "url": "https://secrets.quantix-core.com",
+    "icon": "https://icons.duckduckgo.com/ip3/secrets.quantix-core.com.ico",
+    "slug": "infisical",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 553,
+    "timeDay": 553,
+    "timeWeek": 553,
+    "timeMonth": 553,
+    "timeYear": 553,
+    "dailyMinutesDown": {}
   }
 ]
