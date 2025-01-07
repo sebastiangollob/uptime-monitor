@@ -5,6 +5,8 @@ repo: uptime-monitor
 sites:
   - name: ASCII
     url: https://ascii.ist.tugraz.at
+  - name: Infisical
+    url: https://secrets.quantix-core.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
