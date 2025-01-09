@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ascii.ist.tugraz.at.ico",
     "slug": "ascii",
     "status": "up",
-    "uptime": "98.47%",
-    "uptimeDay": "97.95%",
+    "uptime": "98.48%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.38%",
-    "uptimeMonth": "98.12%",
+    "uptimeMonth": "98.23%",
     "uptimeYear": "98.47%",
-    "time": 2072,
-    "timeDay": 2197,
-    "timeWeek": 3084,
-    "timeMonth": 2863,
-    "timeYear": 2072,
+    "time": 2073,
+    "timeDay": 2174,
+    "timeWeek": 2946,
+    "timeMonth": 2874,
+    "timeYear": 2074,
     "dailyMinutesDown": {
       "2025-01-07": 132,
       "2025-01-06": 70,
@@ -49,8 +49,7 @@
       "2024-04-02": 449,
       "2024-03-27": 328,
       "2024-02-21": 193,
-      "2024-02-14": 54,
-      "2024-01-10": 20
+      "2024-02-14": 54
     }
   },
   {
@@ -64,11 +63,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 449,
-    "timeDay": 449,
-    "timeWeek": 449,
-    "timeMonth": 449,
-    "timeYear": 449,
+    "time": 433,
+    "timeDay": 403,
+    "timeWeek": 433,
+    "timeMonth": 433,
+    "timeYear": 433,
     "dailyMinutesDown": {}
   }
 ]
