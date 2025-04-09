@@ -1,7 +1,7 @@
 url: https://secrets.quantix-core.com
-status: down
-code: 502
-responseTime: 515
-lastUpdated: 2025-04-09T18:35:04.299Z
+status: up
+code: 200
+responseTime: 401
+lastUpdated: 2025-04-09T19:08:40.149Z
 startTime: 2025-01-07T02:15:18.439Z
 generator: Upptime <https://github.com/upptime/upptime>
