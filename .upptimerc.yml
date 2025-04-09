@@ -5,8 +5,10 @@ repo: uptime-monitor
 sites:
   - name: ASCII
     url: https://ascii.ist.tugraz.at
-  - name: Infisical
-    url: https://secrets.quantix-core.com
+  - name: Blue Watch (DEV)
+    url: $BLUE_WATCH_URL
+  - name: Grid Guess (DEV)
+    url: $GRID_GUESS_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -15,11 +17,11 @@ status-website:
   theme: dark
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Server Statuses
+  name: Service Status Dashboard
   navbar:
-    - title: Status
+    - title: Service Status
       href: /
-    - title: GitHub
+    - title: GitHub Repository
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
