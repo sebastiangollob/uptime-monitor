@@ -1,7 +1,7 @@
-url: $GRID_GUESS_URL
+url: $GRID_GUESS_DEV_URL
 status: up
 code: 200
-responseTime: 444
-lastUpdated: 2025-04-23T23:15:20.534Z
+responseTime: 476
+lastUpdated: 2025-04-24T12:40:04.662Z
 startTime: 2025-04-09T19:32:37.079Z
 generator: Upptime <https://github.com/upptime/upptime>
