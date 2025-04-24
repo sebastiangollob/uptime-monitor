@@ -1,7 +1,7 @@
-url: $BLUE_WATCH_URL
+url: $BLUE_WATCH_DEV_URL
 status: down
 code: 502
-responseTime: 350
-lastUpdated: 2025-04-24T12:34:34.139Z
+responseTime: 387
+lastUpdated: 2025-04-24T12:40:04.009Z
 startTime: 2025-04-09T19:32:36.225Z
 generator: Upptime <https://github.com/upptime/upptime>
