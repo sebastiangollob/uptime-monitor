@@ -8,9 +8,9 @@ sites:
   - name: Blue Watch (DEV)
     url: $BLUE_WATCH_DEV_URL
     slug: blue-watch-dev
-  - name: Grid Guess (DEV)
-    url: $GRID_GUESS_DEV_URL
-    slug: grid-guess-dev
+#  - name: Grid Guess (DEV)
+#    url: $GRID_GUESS_DEV_URL
+#    slug: grid-guess-dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
