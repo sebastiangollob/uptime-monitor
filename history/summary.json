@@ -10,11 +10,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.66%",
-    "time": 2248,
-    "timeDay": 1259,
-    "timeWeek": 1653,
-    "timeMonth": 1939,
-    "timeYear": 2321,
+    "time": 2247,
+    "timeDay": 1794,
+    "timeWeek": 1685,
+    "timeMonth": 1943,
+    "timeYear": 2328,
     "dailyMinutesDown": {
       "2025-04-23": 17,
       "2025-01-29": 21,
@@ -53,8 +53,7 @@
       "2024-06-13": 613,
       "2024-05-10": 320,
       "2024-05-09": 1440,
-      "2024-05-08": 30,
-      "2024-04-30": 321
+      "2024-05-08": 30
     }
   },
   {
@@ -63,16 +62,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "blue-watch-dev",
     "status": "up",
-    "uptime": "97.78%",
+    "uptime": "97.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.90%",
-    "uptimeMonth": "97.78%",
-    "uptimeYear": "97.78%",
-    "time": 660,
-    "timeDay": 799,
-    "timeWeek": 728,
-    "timeMonth": 660,
-    "timeYear": 660,
+    "uptimeWeek": "94.56%",
+    "uptimeMonth": "97.89%",
+    "uptimeYear": "97.89%",
+    "time": 668,
+    "timeDay": 951,
+    "timeWeek": 688,
+    "timeMonth": 668,
+    "timeYear": 668,
     "dailyMinutesDown": {
       "2025-04-24": 549,
       "2025-04-22": 67
