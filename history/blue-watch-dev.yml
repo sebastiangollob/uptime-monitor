@@ -1,7 +1,7 @@
 url: $BLUE_WATCH_DEV_URL
-status: down
-code: 404
-responseTime: 511
-lastUpdated: 2025-05-12T19:28:04.226Z
+status: up
+code: 200
+responseTime: 1187
+lastUpdated: 2025-05-12T20:15:40.273Z
 startTime: 2025-04-09T19:32:36.225Z
 generator: Upptime <https://github.com/upptime/upptime>
