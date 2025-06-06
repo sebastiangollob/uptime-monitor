@@ -3,8 +3,8 @@ owner: sebastiangollob
 repo: uptime-monitor
 
 sites:
-  - name: ASCII
-    url: https://ascii.ist.tugraz.at
+#  - name: ASCII
+#    url: https://ascii.ist.tugraz.at
   - name: Blue Watch (DEV)
     url: $BLUE_WATCH_DEV_URL
     slug: blue-watch-dev
