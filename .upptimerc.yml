@@ -3,14 +3,21 @@ owner: sebastiangollob
 repo: uptime-monitor
 
 sites:
-#  - name: ASCII
-#    url: https://ascii.ist.tugraz.at
-  - name: Blue Watch (DEV)
-    url: $BLUE_WATCH_DEV_URL
-    slug: blue-watch-dev
-#  - name: Grid Guess (DEV)
-#    url: $GRID_GUESS_DEV_URL
-#    slug: grid-guess-dev
+  - name: BingePilot
+    url: https://bingepilot.com
+    slug: bingepilot
+  - name: Keycloak
+    url: $KEYCLOAK_URL
+    slug: keycloak
+  - name: Gameserver
+    url: $GAMESERVER_URL
+    slug: gameserver
+  - name: N8n
+    url: $N8N_URL
+    slug: n8n
+  - name: Home Assistant
+    url: $HA_URL
+    slug: ha
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
