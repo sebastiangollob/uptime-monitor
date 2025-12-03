@@ -15,6 +15,10 @@ sites:
   - name: N8n
     url: $N8N_URL
     slug: n8n
+  - name: Database
+    check: "tcp-ping"
+    url: $DB_IP
+    port: $DB_PORT
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
