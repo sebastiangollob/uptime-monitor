@@ -58,18 +58,20 @@
     "url": "$N8N_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "n8n",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 549,
-    "timeDay": 425,
-    "timeWeek": 513,
-    "timeMonth": 549,
-    "timeYear": 549,
-    "dailyMinutesDown": {}
+    "time": 544,
+    "timeDay": 432,
+    "timeWeek": 504,
+    "timeMonth": 544,
+    "timeYear": 544,
+    "dailyMinutesDown": {
+      "2025-12-23": 0
+    }
   },
   {
     "name": "Database",
