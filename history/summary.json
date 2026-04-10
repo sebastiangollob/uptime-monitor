@@ -6,15 +6,15 @@
     "slug": "bingepilot",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "94.66%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.19%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.90%",
-    "time": 1096,
-    "timeDay": 1044,
-    "timeWeek": 1080,
-    "timeMonth": 1092,
-    "timeYear": 1096,
+    "time": 1097,
+    "timeDay": 1226,
+    "timeWeek": 1081,
+    "timeMonth": 1097,
+    "timeYear": 1097,
     "dailyMinutesDown": {
       "2026-04-08": 182
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "keycloak",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
-    "time": 651,
-    "timeDay": 516,
-    "timeWeek": 654,
-    "timeMonth": 669,
-    "timeYear": 651,
+    "uptimeYear": "99.79%",
+    "time": 652,
+    "timeDay": 758,
+    "timeWeek": 652,
+    "timeMonth": 676,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2026-01-19": 396
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 748,
-    "timeDay": 584,
-    "timeWeek": 761,
-    "timeMonth": 744,
-    "timeYear": 748,
+    "time": 749,
+    "timeDay": 888,
+    "timeWeek": 753,
+    "timeMonth": 752,
+    "timeYear": 749,
     "dailyMinutesDown": {}
   },
   {
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 544,
-    "timeDay": 453,
-    "timeWeek": 818,
-    "timeMonth": 590,
+    "timeDay": 614,
+    "timeWeek": 808,
+    "timeMonth": 596,
     "timeYear": 544,
     "dailyMinutesDown": {
       "2025-12-23": 25
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 90,
-    "timeWeek": 113,
-    "timeMonth": 109,
+    "timeDay": 126,
+    "timeWeek": 111,
+    "timeMonth": 111,
     "timeYear": 109,
     "dailyMinutesDown": {}
   }
