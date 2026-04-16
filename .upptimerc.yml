@@ -6,15 +6,6 @@ sites:
   - name: BingePilot
     url: https://bingepilot.com
     slug: bingepilot
-  - name: Keycloak
-    url: $KEYCLOAK_URL
-    slug: keycloak
-  - name: Gameserver
-    url: $GAMESERVER_URL
-    slug: gameserver
-  - name: N8n
-    url: $N8N_URL
-    slug: n8n
   - name: Database
     check: "tcp-ping"
     url: $DB_IP
