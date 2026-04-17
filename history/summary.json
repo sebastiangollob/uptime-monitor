@@ -10,71 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.91%",
-    "time": 1097,
-    "timeDay": 1168,
-    "timeWeek": 1127,
-    "timeMonth": 1100,
-    "timeYear": 1097,
+    "time": 1098,
+    "timeDay": 1243,
+    "timeWeek": 1129,
+    "timeMonth": 1102,
+    "timeYear": 1098,
     "dailyMinutesDown": {
       "2026-04-08": 182
-    }
-  },
-  {
-    "name": "Keycloak",
-    "url": "$KEYCLOAK_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "keycloak",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
-    "time": 656,
-    "timeDay": 744,
-    "timeWeek": 742,
-    "timeMonth": 697,
-    "timeYear": 656,
-    "dailyMinutesDown": {
-      "2026-01-19": 396
-    }
-  },
-  {
-    "name": "Gameserver",
-    "url": "$GAMESERVER_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "gameserver",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 754,
-    "timeDay": 894,
-    "timeWeek": 859,
-    "timeMonth": 782,
-    "timeYear": 754,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "N8n",
-    "url": "$N8N_URL",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "n8n",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 546,
-    "timeDay": 614,
-    "timeWeek": 594,
-    "timeMonth": 614,
-    "timeYear": 546,
-    "dailyMinutesDown": {
-      "2025-12-23": 25
     }
   },
   {
@@ -89,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 129,
-    "timeWeek": 124,
-    "timeMonth": 114,
+    "timeDay": 152,
+    "timeWeek": 128,
+    "timeMonth": 116,
     "timeYear": 110,
     "dailyMinutesDown": {}
   }
