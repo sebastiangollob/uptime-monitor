@@ -4,20 +4,21 @@
     "url": "https://bingepilot.com",
     "icon": "https://icons.duckduckgo.com/ip3/bingepilot.com.ico",
     "slug": "bingepilot",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "95.34%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.89%",
     "time": 1066,
-    "timeDay": 847,
-    "timeWeek": 862,
-    "timeMonth": 938,
+    "timeDay": 950,
+    "timeWeek": 886,
+    "timeMonth": 941,
     "timeYear": 1066,
     "dailyMinutesDown": {
       "2026-04-08": 182,
-      "2026-05-20": 92
+      "2026-05-20": 92,
+      "2026-07-12": 67
     }
   },
   {
