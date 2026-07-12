@@ -6,6 +6,12 @@ sites:
   - name: BingePilot
     url: https://bingepilot.com
     slug: bingepilot
+  - name: Worker
+    url: $WORKER_URL
+    slug: worker
+  - name: Mailserver
+    url: $MAIL_SERVER_URL
+    slug: mailserver
   - name: Database
     check: "tcp-ping"
     url: $DB_IP
