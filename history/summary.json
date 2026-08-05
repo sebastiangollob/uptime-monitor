@@ -26,9 +26,9 @@
     "url": "$WORKER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "worker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 1066,
     "timeMonth": 1046,
     "timeYear": 1046,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-05": 0
+    }
   },
   {
     "name": "Mailserver",
