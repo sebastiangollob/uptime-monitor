@@ -26,19 +26,20 @@
     "url": "$WORKER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "worker",
-    "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.95%",
-    "uptimeYear": "99.29%",
+    "status": "down",
+    "uptime": "99.30%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "99.30%",
     "time": 1026,
     "timeDay": 837,
     "timeWeek": 1009,
     "timeMonth": 1023,
     "timeYear": 1026,
     "dailyMinutesDown": {
-      "2026-08-05": 462
+      "2026-08-05": 462,
+      "2026-08-27": 1
     }
   },
   {
