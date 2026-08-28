@@ -12,8 +12,8 @@
     "uptimeYear": "99.91%",
     "time": 1046,
     "timeDay": 893,
-    "timeWeek": 928,
-    "timeMonth": 954,
+    "timeWeek": 905,
+    "timeMonth": 961,
     "timeYear": 1046,
     "dailyMinutesDown": {
       "2026-04-08": 182,
@@ -26,20 +26,21 @@
     "url": "$WORKER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "worker",
-    "status": "down",
-    "uptime": "99.30%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.94%",
-    "uptimeYear": "99.30%",
-    "time": 1026,
-    "timeDay": 837,
-    "timeWeek": 1009,
-    "timeMonth": 1023,
-    "timeYear": 1026,
+    "status": "up",
+    "uptime": "98.53%",
+    "uptimeDay": "64.00%",
+    "uptimeWeek": "94.86%",
+    "uptimeMonth": "97.76%",
+    "uptimeYear": "98.53%",
+    "time": 1028,
+    "timeDay": 979,
+    "timeWeek": 999,
+    "timeMonth": 1030,
+    "timeYear": 1028,
     "dailyMinutesDown": {
       "2026-08-05": 462,
-      "2026-08-27": 1
+      "2026-08-28": 64,
+      "2026-08-27": 454
     }
   },
   {
@@ -55,7 +56,7 @@
     "uptimeYear": "100.00%",
     "time": 401,
     "timeDay": 395,
-    "timeWeek": 387,
+    "timeWeek": 373,
     "timeMonth": 400,
     "timeYear": 401,
     "dailyMinutesDown": {}
@@ -73,7 +74,7 @@
     "uptimeYear": "100.00%",
     "time": 111,
     "timeDay": 97,
-    "timeWeek": 109,
+    "timeWeek": 103,
     "timeMonth": 113,
     "timeYear": 111,
     "dailyMinutesDown": {}
