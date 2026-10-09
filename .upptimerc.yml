@@ -3,9 +3,6 @@ owner: sebastiangollob
 repo: uptime-monitor
 
 sites:
-  - name: BingePilot
-    url: https://bingepilot.com
-    slug: bingepilot
   - name: Worker
     url: $WORKER_URL
     slug: worker
