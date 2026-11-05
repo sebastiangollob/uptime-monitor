@@ -4,22 +4,22 @@
     "url": "$WORKER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "worker",
-    "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.41%",
+    "status": "up",
+    "uptime": "99.20%",
+    "uptimeDay": "75.36%",
+    "uptimeWeek": "96.48%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.20%",
     "time": 1017,
-    "timeDay": 984,
-    "timeWeek": 1061,
-    "timeMonth": 1035,
+    "timeDay": 955,
+    "timeWeek": 1045,
+    "timeMonth": 1032,
     "timeYear": 1017,
     "dailyMinutesDown": {
       "2026-08-05": 462,
       "2026-08-28": 64,
       "2026-08-27": 454,
-      "2026-11-05": 0
+      "2026-11-05": 355
     }
   },
   {
